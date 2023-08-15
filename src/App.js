@@ -19,8 +19,7 @@ function App() {
 
     return (
         <>
-            <Header
-                Container/>
+            <HeaderContainer/>
             <HeroSection/>
             <main id="main">
                 <AboutSection/>
